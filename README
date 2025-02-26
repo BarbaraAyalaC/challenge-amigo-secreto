@@ -1,0 +1,20 @@
+# Aplicación Web de Amigo Secreto
+
+Esta es una aplicación web simple que permite a los usuarios agregar nombres de amigos, mostrar la lista de amigos y sortear un amigo secreto de manera aleatoria. La aplicación está diseñada para ser fácil de usar y accesible, con una interfaz intuitiva y soporte para lectores de pantalla.
+
+## Descripción
+
+La aplicación "Amigo Secreto" permite a los usuarios:
+- Agregar nombres de amigos a una lista.
+- Ver la lista de amigos agregados.
+- Sortear un amigo secreto de manera aleatoria y mostrar el resultado.
+
+La aplicación está construida con HTML, CSS y JavaScript, y utiliza fuentes de Google para mejorar la presentación visual.
+
+## Instalación
+
+Para configurar la aplicación en tu entorno local, sigue estos pasos:
+
+1. **Clona el Repositorio**: 
+   ```bash
+   git clone https://github.com/usuario/amigo-secreto.git
